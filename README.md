@@ -7,8 +7,6 @@
 > 📢 **支持架构：** `x86_64` & `aarch64`  
 > 🌐 **适配系统：** Debian/Ubuntu 系列  
 
----
-
 ### 🌟 功能列表  
 
 👑 **一键安装 BBR v3 内核**  
@@ -53,20 +51,12 @@
 **Q: 为什么下载失败啦？**  
 A: 有可能是 GitHub 链接过期了，来群里吐槽一下吧！  
 
-**Q: 我不是 BBR 专家，不知道选哪个加速方案？**  
-A: 放心，BBR + FQ 是最常见的方案，适用于大多数场景～  
+
 
 **Q: 如果不小心把系统搞崩了怎么办？**  
 A: 别慌！记得备份你的内核，或者到 [Joey's Blog](https://joeyblog.net) 查看修复教程。
 
 ---
-
-### 🌈 作者信息  
-
-**Joey**  
-📖 博客：[JoeyBlog](https://joeyblog.net)  
-💬 群组：[Telegram Feedback Group](https://t.me/+ft-zI76oovgwNmRh)
-
 ---
 
 ### ❤️ 开源协议  
@@ -82,13 +72,3 @@ A: 别慌！记得备份你的内核，或者到 [Joey's Blog](https://joeyblog.
 感谢 VTEXS 对开源社区的支持！
 
 
-🎉 **快来体验不一样的 BBR 管理工具吧！** 🎉  
-## Star History
-
-<a href="https://star-history.com/#byJoey/Actions-bbr-v3&Timeline">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=byJoey/Actions-bbr-v3&type=Timeline&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=byJoey/Actions-bbr-v3&type=Timeline" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=byJoey/Actions-bbr-v3&type=Timeline" />
- </picture>
-</a>
